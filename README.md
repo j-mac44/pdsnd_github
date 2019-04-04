@@ -5,7 +5,7 @@ April 3, 2019
 Exploring US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+With data provided by Motivate, a bike sharing company, this project explores the usage patterns of customers in Chicago, New York City and Washington. The statistics computed will explore the most popular times of travel, popular stations and trip, trip duration and user information.
 
 ### Files used
 Include the files used
